@@ -2,8 +2,8 @@
 
 # Hi, I'm Marcos Galán👋
 
-Student at the **University of Zaragoza**, with an academic exchange at the **University of Modena and Reggio Emilia**.
-I enjoy building end-to-end systems — from mobile apps and backend services to distributed architectures and AI/ML experiments.
+Student at the **University of Zaragoza**, having completed an academic exchange at the **University of Modena and Reggio Emilia**.
+I enjoy building end-to-end systems — from mobile apps and backend services to distributed architectures and AI/ML experiments/analysis.
 
 📍 Zaragoza, Spain · [LinkedIn](https://www.linkedin.com/in/marcos-galán-carrillo)
 
