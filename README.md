@@ -52,12 +52,6 @@ An Android application built as a group project for the Software Verification & 
 
 ---
 
-### [sisinf2](https://github.com/gaxur/sisinf2) — Containerized Information Systems Deployment
-A Docker-based infrastructure project for the Information Systems course, covering multi-container service orchestration with Docker Compose, remote deployment procedures, and automated backup scripting for data persistence.
-`Docker` `Docker Compose` `Shell Scripting` `Linux`
-
----
-
 <div align="center">
 
 💬 Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/marcos-galán-carrillo)!
